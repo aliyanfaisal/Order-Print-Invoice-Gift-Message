@@ -1,0 +1,19 @@
+{
+    "name": "damyel/order-print-invoice-gift-message",
+    "description": "PDF Generator for Gift Messages",
+    "require": {
+        "dompdf/dompdf": "^2.0"
+    },
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "email@example.com"
+        }
+    ],
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
